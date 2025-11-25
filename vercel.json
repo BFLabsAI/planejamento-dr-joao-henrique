@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "planejamento-dr-joao-henrique",
+  "outputDirectory": ".",
   "rewrites": [
     {
       "source": "/(.*)",
