@@ -1,0 +1,31 @@
+{
+  "name": "planejamento-dr-joao-henrique",
+  "version": "1.0.0",
+  "description": "Plano Tático: Operação Resgate INSS - Dr. João Henrique Coutinho",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000 -o",
+    "build": "echo 'Static site - no build needed'",
+    "preview": "npx serve . -p 4173"
+  },
+  "keywords": [
+    "marketing",
+    "automation",
+    "whatsapp",
+    "inss",
+    "planning",
+    "landing-page"
+  ],
+  "author": {
+    "name": "BF Labs",
+    "url": "https://github.com/BFLabsAI"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
